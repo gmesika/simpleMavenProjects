@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10dc7838-f675-40a0-aebe-4e361bbe6cff" name="Default Changelist" comment="" />
+    <list default="true" id="10dc7838-f675-40a0-aebe-4e361bbe6cff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../appmainlegacy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../appmainlegacy/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,6 +60,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -83,10 +89,11 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="336" />
-    <option name="y" value="288" />
+    <option name="y" value="285" />
     <option name="width" value="1400" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -152,7 +159,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545078593213" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545120826963" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -195,8 +202,8 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.5651537" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50100875" side_tool="true" visible="true" weight="0.3281493" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49899125" visible="true" weight="0.3281493" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50100875" side_tool="true" visible="true" weight="0.32917318" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49899125" visible="true" weight="0.32917318" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
