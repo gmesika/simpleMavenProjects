@@ -5,7 +5,7 @@ public class module1Class
 
     public static void main(String[] args)
     {
-        System.out.println ("test6");
+        System.out.println ("test7");
 
 
     }
